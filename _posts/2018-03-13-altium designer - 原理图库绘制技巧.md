@@ -99,6 +99,7 @@ Design-〉MakeSchematic Library
 	当datasheet只表明min而没有标出max时，一般加一个1/2左右足够。
 	芯片背面放置一个大焊盘是GND，默认为芯片的一个引脚，只不过一般没有写出。
 
+
 ## 13, 可以将其他project里面的器件封装copy过来，
 
 ![](http://githubblogpic.oss-cn-huhehaote.aliyuncs.com/2018-03-14/29.png)
