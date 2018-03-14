@@ -40,3 +40,12 @@ tags:
 然后分别对io端口和芯片配置端口进行绘制。最后分为两页进行。
 
 ![](http://githubblogpic.oss-cn-huhehaote.aliyuncs.com/2018-03-14/16.png)
+
+8，给FPGA芯片配置时，我们通过查找器件手册来获取引脚的配置信息
+
+![](http://githubblogpic.oss-cn-huhehaote.aliyuncs.com/2018-03-14/17.png)
+
+图中相关引脚的配置信息，我们查阅Xilinx官网的芯片手册，找到对应手册，仔细阅读，得到相关信息。
+
+9，画好原理图时，电阻电容还有器件都没有标号，所以我们需要使用快捷键T+A来实现给原理图做标注（annotate schematics），然后每一个器件都有标号，所以，之前我们都标为U？，R？
+，
