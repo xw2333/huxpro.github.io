@@ -2,7 +2,7 @@
 layout:     post
 title:      "Altium Designer15安装"
 
-date:       2018-03-13 21:00:00
+date:       2018-03-13
 author:     "XiongWei"
 header-img: "img/post-bg-2018.jpg"
 catalog: true
