@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "初窥vavado HLS"
+title:      "初窥Vivado HLS"
 
 date:       2018-03-26
 author:     "XiongWei"
