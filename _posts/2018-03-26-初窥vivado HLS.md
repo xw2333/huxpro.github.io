@@ -83,6 +83,13 @@ Solution > Run C/RTL Cosimulation，仿真完成后，需要在Vivado下查看�
 
 ![](http://githubblogpic.oss-cn-huhehaote.aliyuncs.com/2018-03-26/6.png)
 
+然后点击如下图标加载wave窗口
+
+![](http://githubblogpic.oss-cn-huhehaote.aliyuncs.com/2018-03-28/wave.png)
+
+
+或者
+
 打开Vivado，在tcl控制台下键入以下指令
 cd E:/hls/mux21/solution1/sim/verilog/
 
