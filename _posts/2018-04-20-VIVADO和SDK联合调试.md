@@ -118,3 +118,5 @@ tags:
 选择AXI_LITE总线来生成模板，加入自己需要挂载总线上的ip，然后将寄存器和ip的输入输出线连接起来。
 写完代码，一定要综合该IP，因为他不会自动报错，等加入到工程时就会出现一堆问题，所有一定要保证IP的正确性。
 最后在执行一次tool->create and package IP 。这时选择的是Package your current project,并且包含.xci files。最后再添加到自己需要用的工程中去。
+
+源代码可以发我邮箱1010944344@qq.com索取。
